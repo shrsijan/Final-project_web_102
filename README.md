@@ -40,6 +40,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+
+https://github.com/user-attachments/assets/67ab33f0-a5e2-4160-ae65-f0d6b6fbef5b
+
+
     Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
